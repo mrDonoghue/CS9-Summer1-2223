@@ -7,9 +7,10 @@
 * [Notes](https://replit.com/team/CS9-Summer1-2223/Notes)
 * [2048?!GuessingGame](https://replit.com/team/CS9-Summer1-2223/2048GuessingGame)
 
-
+## Feedback
+* [Fill this out!!](https://forms.gle/fCDSqX9UjV4LorSu7)
 ## Old
-* None
+* [Pre-survey](https://forms.gle/d7Pdiapot2QFCGJM8)
 
 ## Extras
 * [Extra0](https://replit.com/team/CS9-Summer1-2223/Extra0)
