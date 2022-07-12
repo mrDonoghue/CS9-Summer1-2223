@@ -1,16 +1,18 @@
 # Links link
 ## Class
-* Click [this link](https://replit.com/teams/join/yzeqltberpphbyibanpammmhdwaerslx-CS9-Summer1-2223) to join the replit class
-    * make an account if you need to
-    * REMEMBER how you chose to log-in, with Google? which google account? password, etc.
-* [HelloWorld](https://replit.com/team/CS9-Summer1-2223/HelloWorld)
+
 * [Notes](https://replit.com/team/CS9-Summer1-2223/Notes)
 * [2048?!GuessingGame](https://replit.com/team/CS9-Summer1-2223/2048GuessingGame)
 
 ## Feedback
-* [Fill this out!!](https://forms.gle/fCDSqX9UjV4LorSu7)
+[Fill this out towards the end of class!!](https://forms.gle/tYqi9EuFZMnAextw9)
 ## Old
 * [Pre-survey](https://forms.gle/d7Pdiapot2QFCGJM8)
+* Click [this link](https://replit.com/teams/join/yzeqltberpphbyibanpammmhdwaerslx-CS9-Summer1-2223) to join the replit class
+    * make an account if you need to
+    * REMEMBER how you chose to log-in, with Google? which google account? password, etc.
+* [HelloWorld](https://replit.com/team/CS9-Summer1-2223/HelloWorld)
+* [Day 0 Feedback](https://forms.gle/fCDSqX9UjV4LorSu7)
 
 ## Extras
 * [Extra0](https://replit.com/team/CS9-Summer1-2223/Extra0)
