@@ -3,7 +3,7 @@
 
 * [Notes](https://replit.com/team/CS9-Summer1-2223/Notes)
 * [2048?!GuessingGame](https://replit.com/team/CS9-Summer1-2223/2048GuessingGame)
-* [BreakScheduleProposal](https://forms.gle/88JjAFGKiaLqZ7Tz8)
+* [BreakScheduleProposal](https://forms.gle/zMnoTkMbfCCZbEmc8) (Note: this is not anonymous, so I can contact you for clarification if necessary)
 * [Lab0Calculator](https://replit.com/team/CS9-Summer1-2223/Lab0AreaCalc)
 
 ## Feedback
