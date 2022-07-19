@@ -6,7 +6,7 @@
 * [Lab0Calculator](https://replit.com/team/CS9-Summer1-2223/Lab0AreaCalc)
 
 ## Feedback
-[Fill this out towards the end of class!!](https://forms.gle/To7NQ8RnYtuVPqoy6)
+
 ## Old
 * [HelloWorld](https://replit.com/team/CS9-Summer1-2223/HelloWorld)
 
