@@ -3,7 +3,10 @@
 
 * [Notes](https://replit.com/team/CS9-Summer1-2223/Notes)
 * [2048?!GuessingGame](https://replit.com/team/CS9-Summer1-2223/2048GuessingGame)
+* [DesignDiscussion](https://replit.com/team/CS9-Summer1-2223/DesignDiscussion)
 * [Lab0Calculator](https://replit.com/team/CS9-Summer1-2223/Lab0AreaCalc)
+* [Zork](http://www.web-adventures.org/cgi-bin/webfrotz?s=ZorkDungeon)
+* [TextGameStart](https://replit.com/team/CS9-Summer1-2223/TextGameStart)
 
 ## Feedback
 
