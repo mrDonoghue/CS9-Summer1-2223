@@ -1,9 +1,8 @@
 # Links link
 ## Class
 * [Notes](https://replit.com/team/CS9-Summer1-2223/Notes)
-* [TextGameStart](https://replit.com/team/CS9-Summer1-2223/TextGameStart)
+* [TextGameVerticalSlice](https://replit.com/team/CS9-Summer1-2223/TextGameVertSlice)
 * [Zork](http://www.web-adventures.org/cgi-bin/webfrotz?s=ZorkDungeon)
-* [function0](https://replit.com/team/CS9-Summer1-2223/functions0)
 * [Roles](files/roles.md)
 
 ## Feedback
