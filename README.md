@@ -6,6 +6,7 @@
 * [TextGameVerticalSlice](https://replit.com/team/CS9-Summer1-2223/TextGameVertSlice)
 * [Zork](http://www.web-adventures.org/cgi-bin/webfrotz?s=ZorkDungeon)
 * [Lab1TextGame](https://replit.com/team/CS9-Summer1-2223/Lab1TextGame)
+* [Lab1TextGameInstructions](https://ep.mrdonoghue.repl.co/p/r.351ebf5333b90babf6e2a155ae9c6425)
 
 
 ## Feedback
