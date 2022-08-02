@@ -1,9 +1,12 @@
 # Links link
 ## Class
+* [functions1](https://replit.com/team/CS9-Summer1-2223/functions1) (The link probably just takes you to our class page. Look under LearningTeam for functions1)
+    - remember that only one person from your group should make the repl, and the rest should join
 * [Notes](https://replit.com/team/CS9-Summer1-2223/Notes)
 * [TextGameVerticalSlice](https://replit.com/team/CS9-Summer1-2223/TextGameVertSlice)
 * [Zork](http://www.web-adventures.org/cgi-bin/webfrotz?s=ZorkDungeon)
-* [Roles](files/roles.md)
+* [Lab1TextGame](https://replit.com/team/CS9-Summer1-2223/Lab1TextGame)
+
 
 ## Feedback
 
