@@ -1,9 +1,6 @@
 # Links link
 ## Class
-* [functions1](https://replit.com/team/CS9-Summer1-2223/functions1) (The link probably just takes you to our class page. Look under LearningTeam for functions1)
-    - remember that only one person from your group should make the repl, and the rest should join
 * [Notes](https://replit.com/team/CS9-Summer1-2223/Notes)
-* [TextGameVerticalSlice](https://replit.com/team/CS9-Summer1-2223/TextGameVertSlice)
 * [Zork](http://www.web-adventures.org/cgi-bin/webfrotz?s=ZorkDungeon)
 * [Lab1TextGame](https://replit.com/team/CS9-Summer1-2223/Lab1TextGame)
 * [Lab1TextGameInstructions](https://ep.mrdonoghue.repl.co/p/r.351ebf5333b90babf6e2a155ae9c6425)
@@ -16,6 +13,7 @@
 * [2048?!GuessingGame](https://replit.com/team/CS9-Summer1-2223/2048GuessingGame)
 * [DesignDiscussion](https://replit.com/team/CS9-Summer1-2223/DesignDiscussion)
 * [TextGameBrainstorm](https://replit.com/team/CS9-Summer1-2223/TextGameBrainstorm)
+* [TextGameVerticalSlice](https://replit.com/team/CS9-Summer1-2223/TextGameVertSlice)
 * [Lab0Calculator](https://replit.com/team/CS9-Summer1-2223/Lab0AreaCalc)
 ## Extras
 * [ExtraLog](https://replit.com/team/CS9-Summer1-2223/ExtraLog): Going forward, please ***keep track*** of what you do in this repl. You can leave questions for me there too, if you want
